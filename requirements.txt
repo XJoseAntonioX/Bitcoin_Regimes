@@ -1,0 +1,8 @@
+pandas 
+numpy
+giotto-tda
+scikit-learn
+matplotlib
+kmapper
+nbformat
+networkx
