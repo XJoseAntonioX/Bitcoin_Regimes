@@ -118,3 +118,8 @@ The Mapper algorithm successfully segments the time series into meaningful regim
 ## 5. Final Remarks
 
 This project demonstrates a comprehensive application of topological data analysis to Bitcoin price data, highlighting its potential for uncovering complex patterns and supporting quantitative trading decisions. The methodology and results showcase a strong interest and capability in advanced quantitative analysis, with clear avenues for further research and improvement.
+
+## Repository Structure and Code Location
+
+- The main analysis and code are in the notebook: **Problema1.ipynb**.
+- All referenced images are in the `images` subfolder within the same directory.
