@@ -1,4 +1,4 @@
-# Topological Data Analysis for Quantitative Bitcoin Trading (2013-2021)
+# Topological Data Analysis for Quantitative Bitcoin Trading
 
 ![Bitcoin Regimes](./images/Crypto.png)
 
