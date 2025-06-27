@@ -1,5 +1,7 @@
 # Topological Data Analysis for Quantitative Bitcoin Trading (2013-2021)
 
+![Bitcoin Regimes](./images/Crypto.png)
+
 ## 1. Problematic
 
 The cryptocurrency market, and specifically Bitcoin, is characterized by high volatility and complex price dynamics. Identifying robust patterns and trends is crucial for making informed trading decisions. Traditional statistical methods often fall short in capturing the intricate, nonlinear structures present in financial time series. This project aims to leverage **Topological Data Analysis (TDA)** to uncover hidden patterns, periodicities, and structural behaviors in Bitcoin's historical price data (2013-2021), ultimately supporting better quantitative trading strategies.
