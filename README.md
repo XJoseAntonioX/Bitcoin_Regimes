@@ -123,5 +123,5 @@ This project demonstrates a comprehensive application of topological data analys
 
 ## Repository Structure and Code Location
 
-- The main analysis and code are in the notebook: **Problema1.ipynb**.
+- The main analysis and code are in the notebook: **Bitcoin_Analysis.ipynb**.
 - All referenced images are in the `images` subfolder within the same directory.
